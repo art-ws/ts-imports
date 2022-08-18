@@ -1,7 +1,7 @@
 {
   "name": "ts-imports",
   "version": "1.0.0",
-  "description": "art-ws.com DB evolutions",
+  "description": "CLI tool to analyze TypeScript imports",
   "homepage": "https://github.com/art-ws/ts-imports",
   "license": "MIT",
   "main": "dist/index.js",
