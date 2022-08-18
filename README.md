@@ -1,3 +1,3 @@
 # ts-imports
 
-CLI tool for TypeScript imports analyze.
+CLI tool to analyze TypeScript imports.
