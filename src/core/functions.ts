@@ -191,7 +191,6 @@ export function listSourceFiles(o: {
         })
       }
     })
-  console.log(chalk.green(cwd))
 }
 
 function isMatchFilter(s: string, filter: string): boolean {

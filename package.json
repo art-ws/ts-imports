@@ -50,7 +50,6 @@
     "imports"
   ],
   "dependencies": {
-    "tslib": "2.4.0",
     "yargs": "17.5.1",
     "fs-extra": "10.1.0",
     "@types/fs-extra": "9.0.13",
@@ -66,6 +65,7 @@
     "glob": "8.0.3"
   },
   "devDependencies": {
+    "tslib": "2.4.0",
     "@art-ws/eslint": "latest",
     "@art-ws/jest": "latest",
     "@art-ws/package-template": "latest",
